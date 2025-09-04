@@ -10,7 +10,7 @@ import (
 
 	. "gopkg.in/check.v1"
 
-	"github.com/canonical/chisel-manifest/apachetestutil"
+	"github.com/canonical/chisel-manifest/internal/apachetestutil"
 	"github.com/canonical/chisel-manifest/manifest"
 )
 
