@@ -7,7 +7,7 @@ import (
 
 	"bytes"
 
-	"github.com/canonical/chisel-manifest/jsonwall"
+	"github.com/canonical/chisel-manifest/public/jsonwall"
 )
 
 type DataType struct {

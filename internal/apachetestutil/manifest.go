@@ -5,7 +5,7 @@ package apachetestutil
 import (
 	"gopkg.in/check.v1"
 
-	"github.com/canonical/chisel-manifest/manifest"
+	"github.com/canonical/chisel-manifest/public/manifest"
 )
 
 type ManifestContents struct {

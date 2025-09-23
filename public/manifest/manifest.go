@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/canonical/chisel-manifest/jsonwall"
+	"github.com/canonical/chisel-manifest/public/jsonwall"
 )
 
 const Schema = "1.0"

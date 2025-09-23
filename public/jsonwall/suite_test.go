@@ -7,7 +7,7 @@ import (
 
 	. "gopkg.in/check.v1"
 
-	"github.com/canonical/chisel-manifest/jsonwall"
+	"github.com/canonical/chisel-manifest/public/jsonwall"
 )
 
 func Test(t *testing.T) { TestingT(t) }

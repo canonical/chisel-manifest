@@ -11,7 +11,7 @@ import (
 	. "gopkg.in/check.v1"
 
 	"github.com/canonical/chisel-manifest/internal/apachetestutil"
-	"github.com/canonical/chisel-manifest/manifest"
+	"github.com/canonical/chisel-manifest/public/manifest"
 )
 
 var readManifestTests = []struct {
