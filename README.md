@@ -23,4 +23,4 @@ This repository currently tracks the release
 # Documentation
 
 The documentation regarding Chisel and its manifest can be found in [Chisel's
-documentation](https://documentation.ubuntu.com/chisel/en/latest/reference/manifest/).
+documentation](https://ubuntu.com/chisel/docs/latest/reference/manifest/).
